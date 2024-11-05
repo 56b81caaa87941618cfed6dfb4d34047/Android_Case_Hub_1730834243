@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
           
           {/* FOOTER COPY */}
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
-            <h3 className="text-xl font-bold mb-2">CaseGuard</h3>
+            <h3 className="text-xl font-bold mb-2">JUST CASES</h3>
             <p className="text-gray-400">© 2023 CaseGuard. All rights reserved. Elevating Android protection one case at a time.</p>
           </div>
 
